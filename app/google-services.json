@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "755050013977",
+    "firebase_url": "https://vender-ec336.firebaseio.com",
+    "project_id": "vender-ec336",
+    "storage_bucket": "vender-ec336.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755050013977:android:1fd4126beae858883ed188",
+        "android_client_info": {
+          "package_name": "com.anushka.vender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755050013977-n5ebbbvaisgjijo5jdhb16j03hsdvrs2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anushka.vender",
+            "certificate_hash": "c23a7710234eece10e6fab3088f44e94b31f9fab"
+          }
+        },
+        {
+          "client_id": "755050013977-01mcs8iqvm3j1u7ru3i53fna85eu5fbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABSGMt2uVoUuIT6-zRRHfB5bO25rZ-h6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755050013977-01mcs8iqvm3j1u7ru3i53fna85eu5fbi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
